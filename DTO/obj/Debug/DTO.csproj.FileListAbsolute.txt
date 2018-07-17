@@ -1,0 +1,17 @@
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\DTO.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\DTO.pdb
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\obj\Debug\DTO.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\obj\Debug\DTO.pdb
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\DnsClient.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\MongoDB.Bson.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\MongoDB.Driver.Core.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\MongoDB.Driver.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\System.Buffers.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\DnsClient.xml
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\MongoDB.Bson.xml
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\MongoDB.Driver.xml
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\bin\Debug\MongoDB.Driver.Core.xml
+c:\users\matheus.mahnke\source\repos\WebApplication\DTO\obj\Debug\DTO.csproj.CopyComplete
+C:\Users\matheus.mahnke\source\repos\WebApplication\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
